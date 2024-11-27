@@ -6,7 +6,7 @@ Python | Tech Enthusiast | Open Source Contributor
 Hello! I'm Alok Negi, a passionate college student learning Python. I'm working on various projects and assignments to improve my programming skills. My goal is to master Python and use it to solve real-world challenges.
 
 Projects
-1. Calc_Project
+1. Calc_Project(https://aloknegii.github.io/calculator_gui/)
 A python project for GUI calculator
 2. Bank data analysis(https://aloknegii.github.io/bank-analysis/)
 A project for analysis customer churn data
